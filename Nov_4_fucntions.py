@@ -31,6 +31,8 @@ def task_5(li, num):
         i = i+1
     return li
 
+
+
 ex_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 print(task_5(ex_list, 4))
