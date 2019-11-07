@@ -36,5 +36,4 @@
 #     greet_list = ["Hello there", "Bonjour", "Sup bro", "What's up dawg", "Dear wonderful person"]
 #     greet = random.choice(greet_list)
 #     return greet
-#
 # print(greetings())
